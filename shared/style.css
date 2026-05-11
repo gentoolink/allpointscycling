@@ -492,7 +492,8 @@ body {
   text-align: center;
   min-width: 160px;
 }
-.partner-logo.green { border-color: var(--green); color: var(--green); }
+.partner-logo.green { border-color: var(--green); color: var(--green); background: #1a2332; }
+.partner-img { display: block; max-height: 80px; max-width: 160px; width: auto; height: auto; }
 
 /* ── Footer ── */
 .site-footer {
